@@ -1,0 +1,50 @@
+[
+    {
+        "name": "NepalOS",
+        "category": "web",
+        "description": "A lightweight Linux distribution designed for Nepali users with localized features.",
+        "contributors": "120+",
+        "stars": "1.2k",
+        "links": {
+            "contribute": "#",
+            "docs": "#",
+            "demo": "#"
+        }
+    },
+    {
+        "name": "Nepal Transit",
+        "category": "mobile",
+        "description": "Real-time public transportation tracking system for Kathmandu Valley.",
+        "contributors": "85+",
+        "stars": "950",
+        "links": {
+            "contribute": "#",
+            "docs": "#",
+            "demo": "#"
+        }
+    },
+    {
+        "name": "NepalNLP",
+        "category": "ai",
+        "description": "Advanced natural language processing tools for Nepali language applications.",
+        "contributors": "65+",
+        "stars": "780",
+        "links": {
+            "contribute": "#",
+            "docs": "#",
+            "demo": "#"
+        }
+    },
+    {
+        "name": "DevNepal CLI",
+        "category": "tools",
+        "description": "A command-line interface tool for Nepali developers to streamline their workflow.",
+        "contributors": "45+",
+        "stars": "520",
+        "links": {
+            "contribute": "#",
+            "docs": "#",
+            "demo": "#"
+        }
+    }
+]
