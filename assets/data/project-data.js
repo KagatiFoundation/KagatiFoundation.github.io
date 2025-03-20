@@ -1,20 +1,20 @@
 [
     {
-        "name": "NepalOS",
-        "category": "web",
-        "description": "A lightweight Linux distribution designed for Nepali users with localized features.",
-        "contributors": "120+",
+        "name": "bishlang",
+        "category": "Programming Language",
+        "description": "Nepali programming language",
+        "contributors": "1",
         "stars": "1.2k",
         "links": {
             "contribute": "#",
-            "docs": "#",
-            "demo": "#"
+            "docs": "https://github.com/KagatiFoundation/bishlang",
+            "demo": "https://github.com/KagatiFoundation/bishlang"
         }
     },
     {
-        "name": "Nepal Transit",
-        "category": "mobile",
-        "description": "Real-time public transportation tracking system for Kathmandu Valley.",
+        "name": "netsim",
+        "category": "Terminal",
+        "description": "Netsim is the open-source, terminal-based version of Wireshark, designed for real-time public transportation tracking in the Kathmandu Valley. It provides an efficient and lightweight alternative for monitoring network traffic and analyzing data.",
         "contributors": "85+",
         "stars": "950",
         "links": {
